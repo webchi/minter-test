@@ -1,0 +1,14 @@
+{
+  "name": "minter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "minter-js-sdk": "^0.12.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.3.3",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
