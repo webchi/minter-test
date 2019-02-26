@@ -1,10 +1,15 @@
 {
   "name": "minter",
+  "description": "Making work minter-js-sdk usage example",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "start": "babel-node --ignore '/node_modules/(?!minter-js-sdk)' index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/webchi/minter-test.git"
   },
   "dependencies": {
     "minter-js-sdk": "^0.12.0"
